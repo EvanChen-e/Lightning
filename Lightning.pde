@@ -24,7 +24,7 @@ int dia2 = 0;
 
 void setup() {
   background(0,0,0);
-  size(200,200);
+  size(600,600);
 }
 
 void draw(){
